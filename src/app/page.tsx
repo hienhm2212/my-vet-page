@@ -1,5 +1,4 @@
 import Contact from "@/components/Contact";
-import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import Testimonials from "@/components/Testimonials";
 import Navigation from "@/components/Navigation";
