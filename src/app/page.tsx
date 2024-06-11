@@ -1,7 +1,6 @@
 import Contact from "@/components/Contact";
 import Hero from "@/components/Hero";
 import Testimonials from "@/components/Testimonials";
-import Navigation from "@/components/Navigation";
 import Service from "@/components/Service";
 import Staff from "@/components/Staff";
 import Newsletter from "@/components/Newsletter";
